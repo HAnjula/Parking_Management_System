@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My workspace\\2023\\C#\\ps\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0C3FD3-8ABF-4F0B-BD9E-26490BE0A495}|WindowsFormsApp1\\ParkingManagementSystem.csproj|d:\\my workspace\\2023\\c#\\ps\\windowsformsapp1\\bookparking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0C3FD3-8ABF-4F0B-BD9E-26490BE0A495}|WindowsFormsApp1\\ParkingManagementSystem.csproj|solutionrelative:windowsformsapp1\\bookparking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0C3FD3-8ABF-4F0B-BD9E-26490BE0A495}|WindowsFormsApp1\\ParkingManagementSystem.csproj|D:\\My workspace\\2023\\C#\\ps\\windowsformsapp1\\bookparking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD0C3FD3-8ABF-4F0B-BD9E-26490BE0A495}|WindowsFormsApp1\\ParkingManagementSystem.csproj|solutionrelative:windowsformsapp1\\bookparking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0C3FD3-8ABF-4F0B-BD9E-26490BE0A495}|WindowsFormsApp1\\ParkingManagementSystem.csproj|d:\\my workspace\\2023\\c#\\ps\\windowsformsapp1\\bookparking.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0C3FD3-8ABF-4F0B-BD9E-26490BE0A495}|WindowsFormsApp1\\ParkingManagementSystem.csproj|solutionrelative:windowsformsapp1\\bookparking.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0C3FD3-8ABF-4F0B-BD9E-26490BE0A495}|WindowsFormsApp1\\ParkingManagementSystem.csproj|d:\\my workspace\\2023\\c#\\ps\\windowsformsapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FD0C3FD3-8ABF-4F0B-BD9E-26490BE0A495}|WindowsFormsApp1\\ParkingManagementSystem.csproj|solutionrelative:windowsformsapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 149,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookParking.Designer.cs",
+              "DocumentMoniker": "D:\\My workspace\\2023\\C#\\ps\\WindowsFormsApp1\\BookParking.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\BookParking.Designer.cs",
+              "ToolTip": "D:\\My workspace\\2023\\C#\\ps\\WindowsFormsApp1\\BookParking.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\BookParking.Designer.cs",
+              "ViewState": "AgIAAHsBAAAAAAAAAAAAAIoBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T09:59:31.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\My workspace\\2023\\C#\\ps\\WindowsFormsApp1\\App.config",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\App.config",
+              "ToolTip": "D:\\My workspace\\2023\\C#\\ps\\WindowsFormsApp1\\App.config",
+              "RelativeToolTip": "WindowsFormsApp1\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-16T09:58:10.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookParking.cs [Design]",
+              "DocumentMoniker": "D:\\My workspace\\2023\\C#\\ps\\WindowsFormsApp1\\BookParking.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\BookParking.cs",
+              "ToolTip": "D:\\My workspace\\2023\\C#\\ps\\WindowsFormsApp1\\BookParking.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\BookParking.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:58:56.621Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookParking.cs",
+              "DocumentMoniker": "D:\\My workspace\\2023\\C#\\ps\\WindowsFormsApp1\\BookParking.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\BookParking.cs",
+              "ToolTip": "D:\\My workspace\\2023\\C#\\ps\\WindowsFormsApp1\\BookParking.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\BookParking.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAAALEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:57:26.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
